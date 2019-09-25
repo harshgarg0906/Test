@@ -21,13 +21,3 @@ hello
 comeback
 required
 making
-data
-makiing
-author
-change
-about
-cpming
-changes
-before
-update
-change
