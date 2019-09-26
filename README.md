@@ -13,8 +13,4 @@ cHANGES
 fdADS
 come on
 okay
-hardik
-pandya
-hello
-ratlam
-making
+makers
