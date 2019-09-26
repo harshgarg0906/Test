@@ -16,21 +16,4 @@ okay
 hardik
 pandya
 hello
-coming
-hello
-comeback
-hello
-make this
-makers
 ratlam
-jaipur
-lucknow
-follow
-coming
-data
-commitment
-convert
-changer
-does
-seioius
-change
