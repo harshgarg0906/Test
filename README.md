@@ -19,3 +19,4 @@ follow
 friends
 know
 change
+compile
