@@ -12,15 +12,8 @@ mocker
 cHANGES
 container
 come on
-okay
+ojkay
 hardik
 pmaking
-follow
-friends
-know
-change
-compile
-can do it
-done
-convert
+
 done
