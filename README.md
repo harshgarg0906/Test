@@ -20,3 +20,4 @@ friends
 know
 change
 compile
+done criteria
