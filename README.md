@@ -2,7 +2,7 @@
 Harsh
 hehey
 contain
-data
+data    
 contain
 okay
 convertor
@@ -20,10 +20,4 @@ friends
 know
 change
 compile
-done criteria
-convertor
-damm
-for
-do it for now
-i can
-changes
+can do it
